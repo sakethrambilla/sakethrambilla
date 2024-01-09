@@ -1,8 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
-</div>
 <h1 align="center">Hi 👋, I'm Saketh</h1>
-<h3 align="center">I'm a Software Engineer skilled in AI and Web Development</h3>
+<h3 align="center">I'm a Software Engineer skilled in ML and Web Development</h3>
 
 
 ## 🔗 Links
