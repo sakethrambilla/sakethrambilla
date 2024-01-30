@@ -7,12 +7,12 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakethrambilla/)
 
 ## 🛠 Skills
-Languages: Python, JavaScript.
+Programming Languages : Python, JavaScript.
 
-Databases: MySQL, MongoDB. 
+Development : HTML, CSS, ReactJs, TailwindCSS, ExpressJs, NodeJs, FastAPI.
 
-Development: HTML, CSS, TailwindCSS, ReactJS, ExpressJS, NodeJS, FastAPI
+AI : Machine Learning, Deep Learning and NLP.
 
-AI: ML, Computer Vision, NLP.
+Database : PostgreSQL, MongoDB.
 
-Version Control: Git and GitHub.
+Additional Skills : Git, Github, Docker, AWS.
