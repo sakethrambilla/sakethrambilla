@@ -1,7 +1,6 @@
 ![Banner](logo.svg)
 
 <h1 >Hi 👋, I'm Saketh Ram</h1>
-<h3 >I specialize in Web Dev.</h3>
 
 
 ## 🔗 Links
