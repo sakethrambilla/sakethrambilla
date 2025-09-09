@@ -4,9 +4,11 @@
 
 ## About Me
 
-* I am a computer science graduate from IIIT Pune with a GPA of 8.14/10
-* I specialize in full stack web development and deep learning and data analysis
+* I am a founding software engineer at Turgon.ai with expertise in web dev, mobile dev and AI.
+* CS grad from IIIT Pune with a GPA of 8.14/10
 
+
+<!-- 
 ## My Tech Stack
 
 ![C++]( https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
@@ -33,7 +35,7 @@
 ![C++]( https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![C++]( https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![C++]( https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
+-->
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge)](https://sakethrambilla.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakethrambilla/)
