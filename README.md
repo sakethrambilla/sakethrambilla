@@ -4,8 +4,12 @@
 
 ## About Me
 
-* I am a founding software engineer at Turgon.ai with expertise in web dev, mobile dev and AI.
-* CS grad from IIIT Pune with a GPA of 8.14/10
+I'm a **Founding AI Engineer at Turgon.AI** (SF, Founder Collective-backed), building end-to-end production AI — LangGraph multi-agent systems, browser automation agents, multi-tenant SaaS, and cross-platform mobile apps.
+
+CS grad from IIIT Pune. Working remote from India.
+
+I write about what actually works when shipping AI to real users — not tutorials.
+
 
 
 <!-- 
